@@ -21,7 +21,7 @@ else:
     ir = salario_bruto * 0.20
     ir_perc = 20
 
-# Demais descontos
+
 inss = salario_bruto * 0.10
 fgts = salario_bruto * 0.11  # não desconta do salário
 total_descontos = ir + inss
