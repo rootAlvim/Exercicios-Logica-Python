@@ -34,4 +34,3 @@ print(f"(-) INSS (10%){' ' * 18}: R$ {inss:8.2f}")
 print(f"FGTS (11%){' ' * 20}: R$ {fgts:8.2f}")
 print(f"Total de descontos{' ' * 11}: R$ {total_descontos:8.2f}")
 print(f"Salário Líquido{' ' * 14}: R$ {salario_liquido:8.2f}")
-dddddddddddddd
