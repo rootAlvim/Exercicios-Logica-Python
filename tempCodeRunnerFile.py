@@ -1,1 +1,1 @@
-p1 = p1.upper() 
+n1 = input()
